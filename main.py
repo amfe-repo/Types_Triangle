@@ -98,5 +98,3 @@ print("\nThis triangle is: {}".format(determinate_type(triangle)))
 print("\nThe angle A is: {}\nThe angle B is: {}\nThe angle C is {}\n".format(triangle["a"]["angle"], triangle["b"]["angle"], triangle["c"]["angle"]))
 
 draw(triangle)
-
-
