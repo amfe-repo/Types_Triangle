@@ -1,5 +1,7 @@
 # Types_Triangle (Draw a triangle)
 
+$ e^{i\pi} + 1 = 0 $
+
 <br>
 <p>This is a little project of university</p>
 <p>The code is basic, but it is interesting for beginners in programming.</p>
